@@ -31,7 +31,7 @@
 - 하이퍼 파라미터
     - epochs=7
     - learning_rate= 0.0005
-    - dropout= 0.4
+    - dropout= 0.2
     - batch_size = 2048
     - embed_dim= 16
 - 결과
